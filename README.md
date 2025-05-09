@@ -64,9 +64,16 @@ This project showcases how AI and deep learning can be integrated into accessibl
 4. **Result Display:** Show prediction result as either **Fracture** or **No Fracture**.
 
 ---
-Bone Fracture Multi-Region X-ray Data
-Features X-ray images from multiple anatomical regions with fracture annotations, allowing for region-specific fracture detection.
-🔗 View Dataset
+📊 Dataset Source
+This project uses the Bone Fracture Multi-Region X-ray Data available on Kaggle.
+
+📸 Description:
+Features X-ray images from multiple anatomical regions (such as hands, legs, hips, and others) with annotations indicating the presence or absence of fractures. Ideal for developing both binary and region-specific fracture detection models.
+
+📦 Dataset Link:
+👉 Bone Fracture Multi-Region X-ray Data on Kaggle
+
+
 ## 📦 Installation & Setup
 
 1. **Clone the repository:**
