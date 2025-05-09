@@ -64,7 +64,9 @@ This project showcases how AI and deep learning can be integrated into accessibl
 4. **Result Display:** Show prediction result as either **Fracture** or **No Fracture**.
 
 ---
-
+Bone Fracture Multi-Region X-ray Data
+Features X-ray images from multiple anatomical regions with fracture annotations, allowing for region-specific fracture detection.
+🔗 View Dataset
 ## 📦 Installation & Setup
 
 1. **Clone the repository:**
