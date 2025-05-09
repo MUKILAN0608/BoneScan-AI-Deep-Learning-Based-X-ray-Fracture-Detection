@@ -64,14 +64,17 @@ This project showcases how AI and deep learning can be integrated into accessibl
 4. **Result Display:** Show prediction result as either **Fracture** or **No Fracture**.
 
 ---
-📊 Dataset Source
-This project uses the Bone Fracture Multi-Region X-ray Data available on Kaggle.
 
-📸 Description:
-Features X-ray images from multiple anatomical regions (such as hands, legs, hips, and others) with annotations indicating the presence or absence of fractures. Ideal for developing both binary and region-specific fracture detection models.
+## 📊 Dataset Source
 
-📦 Dataset Link:
-👉 Bone Fracture Multi-Region X-ray Data on Kaggle
+This project uses the **[Bone Fracture Multi-Region X-ray Data](https://www.kaggle.com/datasets/bmadushanirodrigo/fracture-multi-region-x-ray-data)** available on Kaggle.
+
+- 📸 **Description:**  
+  Features X-ray images from multiple anatomical regions (such as hands, legs, hips, and others) with annotations indicating the presence or absence of fractures. Ideal for developing both binary and region-specific fracture detection models.
+
+- 📦 **Dataset Link:**  
+  👉 [Bone Fracture Multi-Region X-ray Data on Kaggle](https://www.kaggle.com/datasets/bmadushanirodrigo/fracture-multi-region-x-ray-data)
+
 
 
 ## 📦 Installation & Setup
