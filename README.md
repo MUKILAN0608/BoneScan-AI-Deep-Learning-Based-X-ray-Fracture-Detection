@@ -137,6 +137,3 @@ This project is licensed under the MIT License — see the LICENSE file for deta
 
 ---
 
-✅ This is a complete, professional-grade README you can drop right into your repository.
-
-**Would you like me to generate a sample Grad-CAM implementation snippet for fracture visualization
